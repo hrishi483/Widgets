@@ -7,6 +7,6 @@ setuptools.setup(
     author='Hrishikesh',
     author_email='hrishikeshkarande2020@gmail.com',
     url='https://github.com/hrishi483/Widgets.git',
-    packages=['Widgets'],
+    packages=setuptools.find_packages(),
     install_requires=['panel','ipywidgets','openai','langchain']
 )
