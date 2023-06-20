@@ -1,1 +1,1 @@
-from front_end import *
+from .Widgets1.1 import *
