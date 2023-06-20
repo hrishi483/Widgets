@@ -258,7 +258,7 @@ class front_end(ChatBot):
 # In[4]:
 
 
-user=front_end()
+# user=front_end()
 # what is 1+1?
 # Function to sort the dictionary by values
 # give a function to get second largest element from the list
@@ -288,13 +288,13 @@ user=front_end()
 # In[6]:
 
 
-'```json'.replace('```json','')
+# '```json'.replace('```json','')
 
 
 # In[1]:
 
 
-get_ipython().run_cell_magic('writefile', 's.py', '')
+# get_ipython().run_cell_magic('writefile', 's.py', '')
 
 
 # In[ ]:
