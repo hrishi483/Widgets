@@ -2,7 +2,7 @@ import setuptools
 from setuptools import setup, find_packages
 
 setuptools.setup(
-    name='Widgets1.1',
+    name='Widgets',
 #     version='0.0.3',
     author='Hrishikesh',
     author_email='hrishikeshkarande2020@gmail.com',
