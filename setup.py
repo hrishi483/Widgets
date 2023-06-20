@@ -1,4 +1,4 @@
-import setuptools
+# import setuptools
 from setuptools import setup, find_packages
 
 setuptools.setup(
@@ -7,6 +7,6 @@ setuptools.setup(
     author='Hrishikesh',
     author_email='hrishikeshkarande2020@gmail.com',
     url='https://github.com/hrishi483/Widgets.git',
-    packages=['Widgets'],
+    packages=find_packages(),
     install_requires=['panel','ipywidgets','openai','langchain']
 )
