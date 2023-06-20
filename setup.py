@@ -14,5 +14,5 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/hrishi483/Widgets1.1.git',
     packages=find_packages(),
-    install_requires=['panel','ipywidgets','openai','dotenv','langchain'],
+    install_requires=['panel','ipywidgets','openai','dotenv','langchain']
 )
