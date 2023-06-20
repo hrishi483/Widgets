@@ -1,1 +1,1 @@
-from .Widgets import *
+from .Widgets import front_end
